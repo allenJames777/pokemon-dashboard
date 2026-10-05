@@ -1,8 +1,12 @@
 # Pokémon Dashboard (Power BI)
 
-An interactive Pokédex dashboard built in Power BI. Pick any of the 800 Pokémon to see its sprite, number, generation, base stats and four moves, filter to legendaries, and see how Pokémon are spread across types.
+An interactive Pokédex dashboard built in Power BI. Search any of the 800 Pokémon by name to see its artwork, number, generation, HP bar, Attack/Defense/Speed and a type breakdown, plus four moves color-coded by move type. A Legendary filter narrows the list.
 
-<!-- Screenshots go in screenshots/ -->
+![Charizard in the Pokémon dashboard](screenshots/charizard.png)
+
+| Legendary filter on | Search by name |
+|---|---|
+| ![Arceus](screenshots/arceus.png) | ![Pikachu](screenshots/pikachu.png) |
 
 ## What's inside
 
