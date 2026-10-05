@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Office / Power BI lock and temp files
+~$*
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
